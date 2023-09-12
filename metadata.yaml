@@ -1,0 +1,51 @@
+_repo: Il-richiamo-della-foresta-b-romanzo_71490
+_version: 0.0.1
+alternative_title: The call of the wild. Italian
+contributor:
+  translator:
+    agent_name: Dàuli, Gian
+    aliases:
+    - Dauli, Gian
+    - Nalato, G. Ugo
+    birthdate: 1884
+    deathdate: 1945
+    gutenberg_agent_id: '56262'
+    url: http://www.gutenberg.org/2009/agents/56262
+    wikipedia: https://it.wikipedia.org/wiki/Gian_D%C3%A0uli
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: https://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2023-08-26'
+identifiers:
+  gutenberg: '71490'
+language: it
+pgterms:marc904: https://archive.org/details/london-richiamo-della-foresta
+pgterms:marc905: 20230131091507london
+pgterms:marc906: '1924'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aMilano :$bModernissima, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Nature stories'
+- !lcsh 'Klondike River Valley (Yukon) -- Fiction'
+- !lcsh 'Sled dogs -- Fiction'
+- !lcsh 'Pet theft -- Fiction'
+- !lcsh 'Feral dogs -- Fiction'
+- !lcsh 'Animal welfare -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Il richiamo della foresta : $b romanzo'
+url: http://www.gutenberg.org/ebooks/71490
